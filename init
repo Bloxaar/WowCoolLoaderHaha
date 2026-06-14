@@ -1,1 +1,6 @@
 print("Hello from test!")
+
+_G.AccountAgeWhitelistUser = {"test"}
+_G.AccountAgeWhitelistDisplay = {"pro omg"}
+
+--<>-------------------------------------->> V1.0
